@@ -1,4 +1,4 @@
-Titanic SQL project along with a dashboard created using Tableau.
+##Titanic SQL project along with a dashboard created using Tableau.
 
 Dataset: https://github.com/shivani-mengade/Titanic/blob/main/titanic.csv
 
@@ -9,7 +9,7 @@ Hypothesis Testing / Statistical Significance
 Test hypotheses like “Women had a higher survival rate than men,” or “First class passengers had greater survival odds,” using SQL-derived aggregates and statistical measures.
 
 
-Exploratory SQL Analysis (Questions & Findings)
+##Exploratory SQL Analysis (Questions & Findings)
 
 •	Number of man and women who survived?
 
@@ -33,12 +33,12 @@ Exploratory SQL Analysis (Questions & Findings)
 
 •	Correlation Between Family Size and Survival
 
-Dashboard
+##Dashboard
 
 <img width="1172" height="797" alt="Screenshot 2025-09-29 185429" src="https://github.com/user-attachments/assets/a46cf096-d898-41aa-9818-8c9ca6c4333c" />
 
 
-Conclusion
+##Conclusion
 
 Gender is the strongest predictor of survival.
 
